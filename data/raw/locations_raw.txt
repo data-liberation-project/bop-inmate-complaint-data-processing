@@ -1,0 +1,1173 @@
+[  
+        [{
+            latitude:"37.725277605059226",
+            longitude:"-80.65844535827637",
+            type:"FPC",			     
+            securityType:"Minimum",
+            code:"ALD"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"33.144055298450276",
+            longitude:"-88.1669569015503",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"ALI"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"41.128455655130786",
+            longitude:"-76.91230058670044",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"ALX"},
+//complex:"ALX"},
+            "", ""],                         
+    
+        [{
+            latitude:"38.43626194850654",
+            longitude:"-82.70134449005127",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"ASH"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"33.711463",
+            longitude:"-84.371153",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"ATL"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"33.71188173364292",
+            longitude:"-84.3639063835144",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CAT"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"37.38309935091961",
+            longitude:"-120.55909395217896",
+            type:"USP",			     
+            securityType:"High",
+            code:"ATW"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.12027227440838",
+            longitude:"-76.77684903144836",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CBR"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"30.192914965504624",
+            longitude:"-97.30746388435364",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"BAS"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"29.963523369409856",
+            longitude:"-94.07785892486572",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"BMX"},
+//complex:"BMX"},
+            "", ""],                         
+    
+        [{
+            latitude:"37.808292105520145",
+            longitude:"-81.12555742263794",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"BEC"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"34.67387626588273",
+            longitude:"-79.72460746765137",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"BEN"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"44.52254966316118",
+            longitude:"-71.13761186599731",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"BER"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"37.84246141054429",
+            longitude:"-82.53667831420898",
+            type:"USP",			     
+            securityType:"High",
+            code:"BSY"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.22123811076942",
+            longitude:"-101.50749206542969",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"BIG"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"40.66022101614251",
+            longitude:"-74.00356829166412",
+            type:"MDC",			     
+            securityType:"Administrative",
+            code:"BRO"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"30.676010684831894",
+            longitude:"-96.36138439178467",
+            type:"FPC",			     
+            securityType:"Minimum",
+            code:"BRY"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"36.138212637486205",
+            longitude:"-78.79944920539856",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"BUX"},
+//complex:"BUX"},
+            "", ""],                         
+    
+        [{
+            latitude:"41.56763099525645",
+            longitude:"-75.40834307670593",
+            type:"USP",			     
+            securityType:"High",
+            code:"CAA"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.78538039249088",
+            longitude:"-97.41971969604492",
+            type:"FMC",			     
+            securityType:"Administrative",
+            code:"CRW"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"38.89382399228095",
+            longitude:"-77.01224640011787",
+            type:"CO",			     
+            securityType:"N/A",
+            code:"BOP"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"41.876665007896996",
+            longitude:"-87.63018518686295",
+            type:"MCC",			     
+            securityType:"Administrative",
+            code:"CCC"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"41.879379047907044",
+            longitude:"-87.63412535190582",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CCH"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.10385710591814",
+            longitude:"-84.51236665248871",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CCN"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"28.755825012996887",
+            longitude:"-82.0135349035263",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"COX"},
+//complex:"COX"},
+            "", ""],                         
+    
+        [{
+            latitude:"39.59560288583264",
+            longitude:"-78.754141330719",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"CUM"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.812670070909164",
+            longitude:"-96.81384086608887",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CDA"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"41.4406915868142",
+            longitude:"-73.47323656082153",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"DAN"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"42.09890703288096",
+            longitude:"-83.66957902908325",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CDT"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"42.52879629320373",
+            longitude:"-71.62627816200256",
+            type:"FMC",			     
+            securityType:"Administrative",
+            code:"DEV"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"37.71593179457435",
+            longitude:"-121.88796758651733",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"DUB"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"46.8342697",
+            longitude:"-92.1958948",
+            type:"FPC",			     
+            securityType:"Minimum",
+            code:"DTH"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"33.760097075210616",
+            longitude:"-81.9198989868164",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"EDG"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"35.537063059389546",
+            longitude:"-98.00233840942383",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"ERE"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"40.76804545819932",
+            longitude:"-80.7119607925415",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"ELK"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.63874440886546",
+            longitude:"-105.10702729225159",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"ENG"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.71999903656538",
+            longitude:"-81.25186800956726",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"EST"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.38979954241257",
+            longitude:"-75.15979886054993",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"FAI"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"38.3614873975681",
+            longitude:"-105.10712921619415",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"FLX"},
+//complex:"FLX"},
+            "", ""],                         
+    
+        [{
+            latitude:"34.979139884580924",
+            longitude:"-90.81344962120056",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"FOX"},
+//complex:"FOX"},
+            "", ""],                         
+    
+        [{
+            latitude:"40.00005428525468",
+            longitude:"-74.60862636566162",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"FTD"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.68028303183295",
+            longitude:"-97.28237986564636",
+            type:"FMC",			     
+            securityType:"Administrative",
+            code:"FTW"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"38.922157403987896",
+            longitude:"-80.78066825866699",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"GIL"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"31.228369",
+            longitude:"-81.462842",
+            type:"TRN",			     
+            securityType:"N/A",
+            code:"GLN"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.741985",
+            longitude:"-96.958036",
+            type:"CO",			     
+            securityType:"N/A",
+            code:"GRA"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"38.86760525803305",
+            longitude:"-89.41413044929504",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"GRE"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"18.423649287643677",
+            longitude:"-66.11253619194031",
+            type:"MDC",			     
+            securityType:"Administrative",
+            code:"GUA"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.674229",
+            longitude:"-79.498873",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"HAX"},
+//complex:"HAX"},
+            "", ""],                         
+    
+        [{
+            latitude:"40.14406729825646",
+            longitude:"-120.16358613967896",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"HER"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"21.333987785347585",
+            longitude:"-157.92874574661255",
+            type:"FDC",			     
+            securityType:"Administrative",
+            code:"HON"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"29.75869136693049",
+            longitude:"-95.36042153835297",
+            type:"FDC",			     
+            securityType:"Administrative",
+            code:"HOU"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"31.56110354219634",
+            longitude:"-81.89178943634033",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"JES"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.11654316704711",
+            longitude:"-94.61968660354614",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CKC"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"31.98318108812643",
+            longitude:"-106.60508394241333",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"LAT"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.32765014712151",
+            longitude:"-94.93635892868042",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"LVN"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"36.70782701264506",
+            longitude:"-82.99381792545319",
+            type:"USP",			     
+            securityType:"High",
+            code:"LEE"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"40.98107250469765",
+            longitude:"-76.91349685192108",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"LEW"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"38.09795632354743",
+            longitude:"-84.56653118133545",
+            type:"FMC",			     
+            securityType:"Administrative",
+            code:"LEX"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"34.6761879729352",
+            longitude:"-120.50558924674988",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"LOX"},
+//complex:"LOX"},
+            "", ""],                         
+    
+        [{
+            latitude:"33.7270523232909",
+            longitude:"-118.26810121536255",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CLB"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"40.495313768972544",
+            longitude:"-78.61657619476318",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"LOR"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"34.05352165876335",
+            longitude:"-118.23806047439575",
+            type:"MDC",			     
+            securityType:"Administrative",
+            code:"LOS"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"37.1808772921765",
+            longitude:"-83.78428101539612",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"MAN"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"30.812283043070753",
+            longitude:"-85.18894046545029",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"MNA"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"37.66132489364545",
+            longitude:"-88.98763239383698",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"MAR"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"36.6857315434324",
+            longitude:"-84.39077138900757",
+            type:"USP",			     
+            securityType:"High",
+            code:"MCR"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"37.47926852959168",
+            longitude:"-81.55574083328247",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"MCD"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"41.796124056544855",
+            longitude:"-78.69246125221252",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"MCK"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"35.155301850272586",
+            longitude:"-89.86424267292023",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"MEM"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"36.73076525449928",
+            longitude:"-120.39236515760422",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"MEN"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"25.616883771255377",
+            longitude:"-80.41434556245804",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"MIA"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"25.778017910255254",
+            longitude:"-80.19311964511871",
+            type:"FDC",			     
+            securityType:"Administrative",
+            code:"MIM"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"25.778068631351726",
+            longitude:"-80.19376873970032",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CMM"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.12027227440838",
+            longitude:"-76.77684903144836",
+            type:"RO",			     
+            securityType:"N/A",
+            code:"MXR"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"42.098914993554835",
+            longitude:"-83.66956830024719",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"MIL"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"44.97805044643724",
+            longitude:"-93.26568603515625",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CMS"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.3920136112194",
+            longitude:"-86.35764867067337",
+            type:"FPC",			     
+            securityType:"Minimum",
+            code:"MON"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.39196604905696",
+            longitude:"-86.35588645935059",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CMY"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.60530793983782",
+            longitude:"-79.95054602622986",
+            type:"FPC",			     
+            securityType:"Minimum",
+            code:"MRG"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.66107",
+            longitude:"-104.849813",
+            type:"TRN",			     
+            securityType:"N/A",
+            code:"DET"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"36.15833785894452",
+            longitude:"-86.78255081176758",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CNV"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"40.71301045194647",
+            longitude:"-74.00105774402618",
+            type:"MCC",			     
+            securityType:"Administrative",
+            code:"NYM"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"40.65988732637896",
+            longitude:"-74.00301575660706",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CNK"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.11654316704711",
+            longitude:"-94.61905896663666",
+            type:"RO",			     
+            securityType:"N/A",
+            code:"NCR"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.94845387536164",
+            longitude:"-75.14467120170593",
+            type:"RO",			     
+            securityType:"N/A",
+            code:"NER"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"30.832138156154823",
+            longitude:"-92.64348328113556",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"OAX"},
+//complex:"OAX"},
+            "", ""],                         
+    
+        [{
+            latitude:"35.39205872746594",
+            longitude:"-97.61861085891724",
+            type:"FTC",			     
+            securityType:"Administrative",
+            code:"OKL"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"28.75962721130452",
+            longitude:"-82.00122356414795",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"COR"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"41.476777534148226",
+            longitude:"-74.53333675861359",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"OTV"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"43.86168895704511",
+            longitude:"-89.64906513690948",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"OXF"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"40.538068780531134",
+            longitude:"-89.66444492340088",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"PEK"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"30.463596043879626",
+            longitude:"-87.34315931797028",
+            type:"FPC",			     
+            securityType:"Minimum",
+            code:"PEN"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"37.29818430631364",
+            longitude:"-77.34108924865723",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"PEX"},
+//complex:"PEX"},
+            "", ""],                         
+    
+        [{
+            latitude:"39.95254156143854",
+            longitude:"-75.15206336975098",
+            type:"FDC",			     
+            securityType:"Administrative",
+            code:"PHL"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.94940796479055",
+            longitude:"-75.14578700065613",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CPA"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"33.8338130100535",
+            longitude:"-112.16604351997375",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"PHX"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"33.451026",
+            longitude:"-112.07539",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CPH"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"40.44363210182356",
+            longitude:"-79.99524235725403",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CPG"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"31.46112044918768",
+            longitude:"-92.44189381599426",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"POX"},
+//complex:"POX"},
+            "", ""],                         
+    
+        [{
+            latitude:"36.144528857027744",
+            longitude:"-78.79013657569885",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CRL"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"44.29396385164661",
+            longitude:"-74.09729540348053",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"RBK"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"44.02235399723002",
+            longitude:"-92.43875026702881",
+            type:"FMC",			     
+            securityType:"Administrative",
+            code:"RCH"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"38.58354934727576",
+            longitude:"-121.49880051612854",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CSC"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.7172639931445",
+            longitude:"-109.72694993019104",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"SAF"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"29.41751655130468",
+            longitude:"-98.48473906517029",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CSA"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.713711922121874",
+            longitude:"-117.16561675071716",
+            type:"MCC",			     
+            securityType:"Administrative",
+            code:"SDC"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"46.11080500419979",
+            longitude:"-92.85080194473267",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"SST"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"40.720412475732395",
+            longitude:"-76.35017931461334",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"SCH"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.65720731538505",
+            longitude:"-96.56396627426147",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"SEA"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"47.422708646659736",
+            longitude:"-122.30184316635132",
+            type:"FDC",			     
+            securityType:"Administrative",
+            code:"SET"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"47.4227076",
+            longitude:"-122.3024917",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CSE"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"45.0840436625543",
+            longitude:"-123.39583039283752",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"SHE"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.741985",
+            longitude:"-96.958036",
+            type:"RO",			     
+            securityType:"N/A",
+            code:"SCR"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"33.65056526729136",
+            longitude:"-84.47198867797852",
+            type:"RO",			     
+            securityType:"N/A",
+            code:"SER"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"37.177577690810566",
+            longitude:"-93.32125067710876",
+            type:"MCFP",			     
+            securityType:"Administrative",
+            code:"SPG"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"38.62438528072939",
+            longitude:"-90.19984602928162",
+            type:"RRM",			     
+            securityType:"N/A",
+            code:"CST"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"33.42497652085813",
+            longitude:"-86.14289224147797",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"TDG"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"30.440196462640507",
+            longitude:"-84.2227578163147",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"TAL"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"33.72717724642843",
+            longitude:"-118.26813876628876",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"TRM"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"39.41426418872239",
+            longitude:"-87.45130062103271",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"THX"},
+//complex:"THX"},
+            "", ""],                         
+    
+        [{
+            latitude:"33.37551640898179",
+            longitude:"-94.09211754798889",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"TEX"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"41.969953",
+            longitude:"-90.104878",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"TOM"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"28.447770202636647",
+            longitude:"-98.32241177558899",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"TRV"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.08849219605296",
+            longitude:"-110.85797846317291",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"TCX"},
+//complex:"TCX"},
+            "", ""],                         
+    
+        [{
+            latitude:"34.57220331752011",
+            longitude:"-117.36047387123108",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"VIX"},
+//complex:"VIX"},
+            "", ""],                         
+    
+        [{
+            latitude:"44.0658184987203",
+            longitude:"-93.51654767990112",
+            type:"FCI",			     
+            securityType:"Low",
+            code:"WAS"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"38.01678123430942",
+            longitude:"-121.35812938213348",
+            type:"RO",			     
+            securityType:"N/A",
+            code:"WXR"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"33.58941958610805",
+            longitude:"-79.8901104927063",
+            type:"FCI",			     
+            securityType:"Medium",
+            code:"WIL"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"42.87985586556123",
+            longitude:"-97.3919802904129",
+            type:"FPC",			     
+            securityType:"Minimum",
+            code:"YAN"},
+//complex:""},
+            "", ""],                         
+    
+        [{
+            latitude:"32.87846088847022",
+            longitude:"-90.41682600975037",
+            type:"FCC",			     
+            securityType:"N/A",
+            code:"YAX"},
+//complex:"YAX"},
+            "", ""]                         
+]
+
+/*convert using https://konklone.io/json/ */
